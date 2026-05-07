@@ -1,0 +1,13 @@
+<xml_guide>
+    <tag_rules>
+        Every tag must have a start and an end.
+        You can write on multiple lines like this.
+        The computer reads all these lines as one block.
+    </tag_rules>
+
+    <syntax_info>
+        XML is very strict.
+        If you forget a closing tag, 
+        the whole file will break.
+    </syntax_info>
+</xml_guide>
