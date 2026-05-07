@@ -1,0 +1,24 @@
+<html>
+<head>
+    <style>
+        body {
+            background-color: lightyellow;
+            text-align: center;
+            font-family: Arial;
+        }
+        h1 {
+            color: darkblue;
+        }
+        p {
+            color: red;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>This is Styled with CSS</h1>
+    <p>The background is yellow and this text is red!</p>
+
+</body>
+</html>
